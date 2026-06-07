@@ -1,179 +1,59 @@
 {
-  "name": "1.20.1-IKUN_3058",
-  "author": "IKUN_3058",
-  "version": "30.58",
+  "name": "Onimai_3058-26.1.2",
+  "author": "3058300936@qq.com",
+  "version": "3058",
   "description": "",
   "fileApi": "https://modpack.131124.xyz",
   "files": [
     {
-      "path": "mods/appleskin.jar",
-      "hash": "f859bb13130788ae2dc2e76a9c80c89e4bbbef5f"
-    },
-    {
-      "path": "mods/BetterF3.jar",
-      "hash": "ed0383ed8c68e1d1cbfc61267afee028d8a4d7fe"
-    },
-    {
-      "path": "mods/CardinalComponents.jar",
-      "hash": "d0d687d8fc3f367bf696fa0059bccdf0591c51f4"
-    },
-    {
-      "path": "mods/carryon.jar",
-      "hash": "8f3858977becfbc26f67f4a5579881e15e07d69d"
-    },
-    {
-      "path": "mods/ClothConfig.jar",
-      "hash": "d5fe84a0cc9ed5c7290a76ba570e1f8716afecab"
-    },
-    {
-      "path": "mods/continuity.jar",
-      "hash": "b9b3908c93efed3da5ad7caaf733b9d5b678c85f"
-    },
-    {
-      "path": "mods/diggusmaximus.jar",
-      "hash": "7b36c55155d6320287007491818a23bd1c23b2b3"
+      "path": "mods/Appleskin.jar",
+      "hash": "fb09a4d2a1d0a0475a0669ff84d3599d5f19a5f1"
     },
     {
       "path": "mods/FabricAPI.jar",
-      "hash": "85117a1e8984a45c972b85571c8e075cee45039a"
+      "hash": "1389f2a2bf506996be33ae8633ee25472ad8d9c2"
     },
     {
-      "path": "mods/FabricLanguageKotlin.jar",
-      "hash": "20b2200961e11994595ebb2d5f6624f232d13751"
-    },
-    {
-      "path": "mods/FerriteCor.jar",
-      "hash": "8fa3b84fc5860dbc30fdf8cced02af68dffcf3fa"
-    },
-    {
-      "path": "mods/ForgeConfigAPIPort.jar",
-      "hash": "41f146d16a37f62e84e60cab226058d1a87f9cec"
-    },
-    {
-      "path": "mods/gd656killicon.jar",
-      "hash": "c977fa7e3b3d19ff17d39004cc8b28b0b260749c"
-    },
-    {
-      "path": "mods/HUD.jar",
-      "hash": "623f71c059bc26c57c0e45ea2f5e00090496e40a"
-    },
-    {
-      "path": "mods/IMBlocker.jar",
-      "hash": "ce1c4d59fe5f98d475c66832aa0a18c6a6795d1e"
-    },
-    {
-      "path": "mods/ImmediatelyFast.jar",
-      "hash": "bb9e7a507bb7a442cba451d79b5c1fde74aea07c"
-    },
-    {
-      "path": "mods/Indium.jar",
-      "hash": "d824614e7a173d273167969f427702f51846aca7"
-    },
-    {
-      "path": "mods/InventoryProfilesNext.jar",
-      "hash": "e45676c4193d69b0eb0ebdb7881a6daeb36a9b5e"
-    },
-    {
-      "path": "mods/iris.jar",
-      "hash": "880c0b9ce38bb4997645793407c1801df83f4233"
+      "path": "mods/IPN.jar",
+      "hash": "ecfa5afed58b06e5929ffacec8a1116b7f08527f"
     },
     {
       "path": "mods/Jade.jar",
-      "hash": "511ff9de2b9322089e769433f8613f3ac16bdade"
+      "hash": "6d4b5190e9a5be1e3f3d8f0c8e5e917a416d1e29"
     },
     {
       "path": "mods/JEI.jar",
-      "hash": "5f3633e768fabe6a9a99d1fb536b730f7c038b04"
+      "hash": "1de8d3d19f11102b8ea174a0fbc5da0744e34d36"
     },
     {
-      "path": "mods/lanserverproperties.jar",
-      "hash": "875575b9764cf1f88d69e5035b9b7e166d672d22"
+      "path": "mods/kotlin.jar",
+      "hash": "2bc17bb4275cc70a12e4ac35d139a71a30845720"
     },
     {
       "path": "mods/libIPN.jar",
-      "hash": "c8c4d93037efb226b6bd3264e33df4c010cb111b"
+      "hash": "a4511c57a44de7728fd71d16ec62a7fddaeeb366"
     },
     {
-      "path": "mods/litematica.jar",
-      "hash": "68bc88228d567ec0c56dd5d308d51c4cb5eab3ff"
+      "path": "mods/Xaeromini.jar",
+      "hash": "63391b2acc88053fea85cecbaa35b00fabae1918"
     },
     {
-      "path": "mods/Lithium.jar",
-      "hash": "048227ed60a3005cf9fa55880dfe0cf20b0ba680"
-    },
-    {
-      "path": "mods/malilib.jar",
-      "hash": "94d4dd8a82e493d956b423019134d8c48ee737be"
-    },
-    {
-      "path": "mods/modmenu.jar",
-      "hash": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a"
-    },
-    {
-      "path": "mods/sodium.jar",
-      "hash": "bcdbf37d9494e405cba210d7a80ed58e756297b5"
-    },
-    {
-      "path": "mods/SYC.jar",
-      "hash": "10d85fe22af43d6bfde61b188dfce45c2d13fe7f"
-    },
-    {
-      "path": "mods/TACZ.jar",
-      "hash": "769f23d1cf5b9acd34be61947123f89b5bb8f9fc"
-    },
-    {
-      "path": "mods/travelersbackpack.jar",
-      "hash": "31d069954214cf554fa737f0f56ec6634e08a7b8"
-    },
-    {
-      "path": "mods/trinkets.jar",
-      "hash": "d58cc8759587f03f320f188972ca66baa788d008"
-    },
-    {
-      "path": "mods/tweakeroo.jar",
-      "hash": "2a18f5905f9e10c6a3b45388b4401ec135b3b3cf"
-    },
-    {
-      "path": "mods/xaerominimap.jar",
-      "hash": "2fc54c6af762147657ec0c06c03e2fd0339783ee"
-    },
-    {
-      "path": "mods/xaeroworldmap.jar",
-      "hash": "b4f34e57f3bca8b98bf445e870e0acd1bd60856d"
-    },
-    {
-      "path": "resourcepacks/CozyUI.zip",
-      "hash": "f2d3ec590d99a2706ce08bf73bea35df98836591"
-    },
-    {
-      "path": "resourcepacks/MasaChinese.zip",
-      "hash": "6841651b6295323d306b291beca2553f308a5701"
-    },
-    {
-      "path": "resourcepacks/NewGlowingOres.zip",
-      "hash": "5386de443f769021ac09e7be77f04faf4198b7bf"
-    },
-    {
-      "path": "resourcepacks/Xray.zip",
-      "hash": "326383a8ec25574ec9ac9a51dfb3d2c98459b010"
+      "path": "mods/xaeroworld.jar",
+      "hash": "09b08e289486d0b33a567e15251fbb9d887a28d5"
     },
     {
       "path": "servers.dat",
-      "hash": "92417346d2e0f3bed497f2c7e4af3ad04a38791c"
-    },
-    {
-      "path": "tacz/MCS2.zip",
-      "hash": "151bfd88ae66bfb13d5a0f01956b5494cb0fdda0"
+      "hash": "a669d62a1d5035fcab13c331ed1503b91030d4cd"
     }
   ],
   "addons": [
     {
       "id": "game",
-      "version": "1.20.1"
+      "version": "26.1.2"
     },
     {
       "id": "fabric",
-      "version": "0.18.4"
+      "version": "0.19.3"
     }
   ]
 }

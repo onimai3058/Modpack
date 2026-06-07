@@ -6,23 +6,23 @@
   "fileApi": "https://modpack.131124.xyz",
   "files": [
     {
-      "path": "mods/Appleskin.jar",
+      "path": "mods/appleskin.jar",
       "hash": "fb09a4d2a1d0a0475a0669ff84d3599d5f19a5f1"
     },
     {
-      "path": "mods/FabricAPI.jar",
+      "path": "mods/fabricapi.jar",
       "hash": "1389f2a2bf506996be33ae8633ee25472ad8d9c2"
     },
     {
-      "path": "mods/IPN.jar",
+      "path": "mods/ipn.jar",
       "hash": "ecfa5afed58b06e5929ffacec8a1116b7f08527f"
     },
     {
-      "path": "mods/Jade.jar",
+      "path": "mods/jade.jar",
       "hash": "6d4b5190e9a5be1e3f3d8f0c8e5e917a416d1e29"
     },
     {
-      "path": "mods/JEI.jar",
+      "path": "mods/jel.jar",
       "hash": "1de8d3d19f11102b8ea174a0fbc5da0744e34d36"
     },
     {
@@ -30,11 +30,11 @@
       "hash": "2bc17bb4275cc70a12e4ac35d139a71a30845720"
     },
     {
-      "path": "mods/libIPN.jar",
+      "path": "mods/libipn.jar",
       "hash": "a4511c57a44de7728fd71d16ec62a7fddaeeb366"
     },
     {
-      "path": "mods/Xaeromini.jar",
+      "path": "mods/xaeromini.jar",
       "hash": "63391b2acc88053fea85cecbaa35b00fabae1918"
     },
     {
